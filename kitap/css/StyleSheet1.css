@@ -1,0 +1,14 @@
+﻿body {
+    background-color: #FBD63D;
+}
+
+@font-face {
+    font-family: yeniyazi;
+    src: url(Hickory-Jack.ttf);
+}
+
+#yeni {
+    font: 40px yeniyazi;
+    color: black;
+    height: 47px;
+}
